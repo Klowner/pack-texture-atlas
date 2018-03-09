@@ -1,0 +1,18 @@
+{
+  "name": "pack-texture-atlas",
+  "version": "1.0.0",
+  "description": "Auto-pack a texture atlas using bin packing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mark Riedesel <mark@klowner.com>",
+  "license": "MIT",
+  "dependencies": {
+    "spritesmith": "^3.3.0",
+    "spritesmith-texturepacker": "^1.0.0"
+  },
+  "bin": {
+    "pack-texture-atlas": "./index.js"
+  }
+}
