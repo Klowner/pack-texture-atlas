@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 var Spritesmith = require('spritesmith'),
 	SpritesmithTexturePacker = require('spritesmith-texturepacker');
 	fs = require('fs');
